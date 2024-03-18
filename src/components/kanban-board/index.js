@@ -108,7 +108,7 @@ export default function KanbanBoard(props) {
                         border: "2px purple",
                         padding: "20px",
                         margin: "20px",
-                        background: "#E2DAF2",
+                        background: "#9195f6",
                         borderRadius: "5px",
                       }
                     : {}
